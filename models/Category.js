@@ -8,7 +8,7 @@ Category.init(
   {
     // define columns
     // An `id` is automatically created by Sequelize, though best practice would be to define the primary key ourselves
-    //example below
+
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
@@ -20,7 +20,7 @@ Category.init(
       allowNull: false
     },
   },
-  //examples above
+
   {
     sequelize,
     timestamps: false,

@@ -3,7 +3,7 @@
 
   ## Description
 
-  The weekly challenge was to create an employee manager CLI prompt application. This application shows SQL tables with data about employees, salary, roles, departments, etc. 
+  The weekly challenge was to complete starter code to complete an ecommerce website. 
 
   ## Table of Contents (Optional)
     
@@ -22,11 +22,10 @@
  Must install npm i inquirer@8.2.4 to deploy the CLI application.
   
     Click on video to play.
-[![Employee Manager demo](https://img.youtube.com/vi/Vk7ATcXnEtE/0.jpg)](https://www.youtube.com/watch?v=Vk7ATcXnEtE)
+[![ecommerce website demo](https://img.youtube.com/vi/ll6ZDLfOYso/0.jpg)](https://www.youtube.com/watch?v=ll6ZDLfOYso)
   ## Credits
 
-	- Module 10 Challenge prompts
-  - Module 12 activities
+  - Module 13 activities
 
 
   
